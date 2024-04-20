@@ -11,6 +11,7 @@ You maybe saw me as a speaker during a conference and want to find my presentati
 - DEVOXX MO 2023 - Accessibility, why bother ?
 - DevFest Stockholm 2023 - Accessibility, why bother ?
 - DevFest Paris 2024 - 🦜🔗LangChain: Votre nouveau couteau suisse
+- Devoxx Greece 2024 - Meet your new AI Best Friend: 🦜🔗LangChain
 
 
 ## Useful Links
