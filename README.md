@@ -16,6 +16,7 @@ You maybe saw me as a speaker during a conference and want to find my presentati
 - Devoxx PL 2024 - Signals vs React Hooks
 - Devoxx MA 20224 - Meet your new AI Best Friend: 🦜🔗LangChain
 - Devoxx MA 2024 - Signals vs React Hooks
+- DevFest Strasbourg - Signals vs React Hooks
 
 
 ## Useful Links
